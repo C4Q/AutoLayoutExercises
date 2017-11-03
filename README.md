@@ -1,3 +1,3 @@
 # Auto Layout Example
 
-![Image](/AutoLayoutImage)
+![Image](/AutoLayoutImage.jpg)
